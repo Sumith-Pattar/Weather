@@ -1,0 +1,481 @@
+[{
+    "city": {
+        "id": 1283240,
+        "name": "Kathmandu",
+        "findname": "KATHMANDU",
+        "country": "NP",
+        "coord": {
+            "lon": 85.316666,
+            "lat": 27.716667
+        },
+        "zoom": 7
+    },
+    "time": 1489487389,
+    "main": {
+        "temp": 291.15,
+        "pressure": 1017,
+        "humidity": 45,
+        "temp_min": 291.15,
+        "temp_max": 291.15
+    },
+    "wind": {
+        "speed": 9.3,
+        "deg": 240,
+        "var_beg": 200,
+        "var_end": 270
+    },
+    "clouds": {
+        "all": 75
+    },
+    "weather": [{
+        "id": 501,
+        "main": "Rain",
+        "description": "proximity moderate rain",
+        "icon": "10d"
+    }
+    ]
+},{
+    "city": {
+        "id": 3632308,
+        "name": "Merida",
+        "findname": "MERIDA",
+        "country": "VE",
+        "coord": {
+            "lon": -71.144997,
+            "lat": 8.598333
+        },
+        "zoom": 8
+    },
+    "time": 1489487389,
+    "main": {
+        "temp": 283.584,
+        "temp_min": 283.584,
+        "temp_max": 283.584,
+        "pressure": 815.99,
+        "sea_level": 1024.28,
+        "grnd_level": 815.99,
+        "humidity": 100
+    },
+    "wind": {
+        "speed": 0.78,
+        "deg": 119.003
+    },
+    "clouds": {
+        "all": 20
+    },
+    "weather": [{
+        "id": 500,
+        "main": "Rain",
+        "description": "light rain",
+        "icon": "10n"
+    }
+    ],
+    "rain": {
+        "3h": 0.43
+    }
+},{
+    "city": {
+        "id": 1280737,
+        "name": "Lhasa",
+        "findname": "LHASA",
+        "country": "CN",
+        "coord": {
+            "lon": 91.099998,
+            "lat": 29.65
+        },
+        "zoom": 6
+    },
+    "time": 1489487390,
+    "main": {
+        "temp": 274.484,
+        "temp_min": 274.484,
+        "temp_max": 274.484,
+        "pressure": 603.53,
+        "sea_level": 1014.44,
+        "grnd_level": 603.53,
+        "humidity": 20
+    },
+    "wind": {
+        "speed": 3.13,
+        "deg": 231.003
+    },
+    "clouds": {
+        "all": 64
+    },
+    "weather": [{
+        "id": 803,
+        "main": "Clouds",
+        "description": "broken clouds",
+        "icon": "04d"
+    }
+    ]
+},{
+    "city": {
+        "id": 745042,
+        "name": "Istanbul",
+        "findname": "ISTANBUL",
+        "country": "TR",
+        "coord": {
+            "lon": 28.983311,
+            "lat": 41.03508
+        },
+        "zoom": 1,
+        "langs": [{
+            "bg": "Истанбул"
+        }, {
+            "el": "Ισταμπούλ"
+        }, {
+            "en": "Istanbul"
+        }, {
+            "es": "Provincia de Estambul"
+        }, {
+            "ja": "イスタンブール"
+        }, {
+            "link": "http:\/\/en.wikipedia.org\/wiki\/Istanbul_Province"
+        }, {
+            "no": "Istanbul"
+        }, {
+            "ru": "Стамбул"
+        }, {
+            "tr": "İstanbul"
+        }, {
+            "zh": "伊斯坦布尔"
+        }
+        ]
+    },
+    "time": 1489487390,
+    "main": {
+        "temp": 277.63,
+        "pressure": 1020,
+        "humidity": 86,
+        "temp_min": 277.15,
+        "temp_max": 278.15
+    },
+    "wind": {
+        "speed": 4.6,
+        "deg": 290,
+        "var_beg": 260,
+        "var_end": 320
+    },
+    "clouds": {
+        "all": 75
+    },
+    "weather": [{
+        "id": 500,
+        "main": "Rain",
+        "description": "light rain",
+        "icon": "10d"
+    }
+    ]
+},{
+    "city": {
+        "id": 3496831,
+        "name": "Mao",
+        "findname": "MAO",
+        "country": "DO",
+        "coord": {
+            "lon": -71.078133,
+            "lat": 19.551861
+        },
+        "zoom": 10
+    },
+    "time": 1489487390,
+    "main": {
+        "temp": 294.84,
+        "pressure": 1016,
+        "humidity": 100,
+        "temp_min": 294.15,
+        "temp_max": 295.15
+    },
+    "wind": {
+        "speed": 2.6,
+        "deg": 140
+    },
+    "clouds": {
+        "all": 75
+    },
+    "weather": [{
+        "id": 803,
+        "main": "Clouds",
+        "description": "broken clouds",
+        "icon": "04n"
+    }
+    ]
+},{
+    "city": {
+        "id": 523523,
+        "name": "Nalchik",
+        "findname": "NALCHIK",
+        "country": "RU",
+        "coord": {
+            "lon": 43.618889,
+            "lat": 43.498058
+        },
+        "zoom": 8
+    },
+    "time": 1489487390,
+    "main": {
+        "temp": 278.15,
+        "pressure": 1013,
+        "humidity": 93,
+        "temp_min": 278.15,
+        "temp_max": 278.15
+    },
+    "wind": {
+        "speed": 2.08,
+        "deg": 57.5029
+    },
+    "clouds": {
+        "all": 90
+    },
+    "weather": [{
+        "id": 701,
+        "main": "Mist",
+        "description": "mist",
+        "icon": "50d"
+    }
+    ]
+},{
+    "city": {
+        "id": 2902852,
+        "name": "Hockenheim",
+        "findname": "HOCKENHEIM",
+        "country": "DE",
+        "coord": {
+            "lon": 8.54583,
+            "lat": 49.322781
+        },
+        "zoom": 11
+    },
+    "time": 1489490559,
+    "main": {
+        "temp": 285.41,
+        "pressure": 1033,
+        "humidity": 62,
+        "temp_min": 285.15,
+        "temp_max": 286.15
+    },
+    "wind": {
+        "speed": 1,
+        "deg": 0
+    },
+    "clouds": {
+        "all": 0
+    },
+    "weather": [{
+        "id": 800,
+        "main": "Clear",
+        "description": "Sky is Clear",
+        "icon": "01d"
+    }
+    ]
+},{
+    "city": {
+        "id": 2926716,
+        "name": "Finnentrop",
+        "findname": "FINNENTROP",
+        "country": "DE",
+        "coord": {
+            "lon": 7.96667,
+            "lat": 51.166672
+        },
+        "zoom": 11
+    },
+    "time": 1489490559,
+    "main": {
+        "temp": 283.41,
+        "pressure": 1031,
+        "humidity": 57,
+        "temp_min": 281.15,
+        "temp_max": 285.15
+    },
+    "wind": {
+        "speed": 5.7,
+        "deg": 230
+    },
+    "clouds": {
+        "all": 40
+    },
+    "weather": [{
+        "id": 802,
+        "main": "Clouds",
+        "description": "scattered clouds",
+        "icon": "03d"
+    }
+    ]
+},{
+    "city": {
+        "id": 2846523,
+        "name": "Rinteln",
+        "findname": "RINTELN",
+        "country": "DE",
+        "coord": {
+            "lon": 9.07917,
+            "lat": 52.186039
+        },
+        "zoom": 11
+    },
+    "time": 1489490560,
+    "main": {
+        "temp": 282.96,
+        "pressure": 1029,
+        "humidity": 66,
+        "temp_min": 282.15,
+        "temp_max": 284.15
+    },
+    "wind": {
+        "speed": 5.1,
+        "deg": 240,
+        "var_beg": 200,
+        "var_end": 270
+    },
+    "clouds": {
+        "all": 75
+    },
+    "weather": [{
+        "id": 803,
+        "main": "Clouds",
+        "description": "broken clouds",
+        "icon": "04d"
+    }
+    ]
+},{
+    "city": {
+        "id": 2808893,
+        "name": "Wildeshausen",
+        "findname": "WILDESHAUSEN",
+        "country": "DE",
+        "coord": {
+            "lon": 8.43333,
+            "lat": 52.900002
+        },
+        "zoom": 9
+    },
+    "time": 1489490560,
+    "main": {
+        "temp": 284.52,
+        "pressure": 1028,
+        "humidity": 66,
+        "temp_min": 284.15,
+        "temp_max": 285.15
+    },
+    "wind": {
+        "speed": 5.1,
+        "deg": 240
+    },
+    "clouds": {
+        "all": 75
+    },
+    "weather": [{
+        "id": 803,
+        "main": "Clouds",
+        "description": "broken clouds",
+        "icon": "04d"
+    }
+    ]
+},{
+    "city": {
+        "id": 2899676,
+        "name": "Holzkirchen",
+        "findname": "HOLZKIRCHEN",
+        "country": "DE",
+        "coord": {
+            "lon": 11.70181,
+            "lat": 47.876629
+        },
+        "zoom": 10
+    },
+    "time": 1489490560,
+    "main": {
+        "temp": 283.15,
+        "pressure": 1031,
+        "humidity": 43,
+        "temp_min": 283.15,
+        "temp_max": 283.15
+    },
+    "wind": {
+        "speed": 3.6,
+        "deg": 250
+    },
+    "clouds": {
+        "all": 0
+    },
+    "weather": [{
+        "id": 800,
+        "main": "Clear",
+        "description": "Sky is Clear",
+        "icon": "01d"
+    }
+    ]
+},{
+    "city": {
+        "id": 2931361,
+        "name": "Eitorf",
+        "findname": "EITORF",
+        "country": "DE",
+        "coord": {
+            "lon": 7.45,
+            "lat": 50.76667
+        },
+        "zoom": 10
+    },
+    "time": 1489490561,
+    "main": {
+        "temp": 283.05,
+        "pressure": 1032,
+        "humidity": 58,
+        "temp_min": 281.15,
+        "temp_max": 285.15
+    },
+    "wind": {
+        "speed": 1.5,
+        "deg": 300,
+        "var_beg": 220,
+        "var_end": 10
+    },
+    "clouds": {
+        "all": 75
+    },
+    "weather": [{
+        "id": 803,
+        "main": "Clouds",
+        "description": "broken clouds",
+        "icon": "04d"
+    }
+    ]
+},{
+    "city": {
+        "id": 3336891,
+        "name": "Filderstadt",
+        "findname": "FILDERSTADT",
+        "country": "DE",
+        "coord": {
+            "lon": 9.22049,
+            "lat": 48.656979
+        },
+        "zoom": 10
+    },
+    "time": 1489490561,
+    "main": {
+        "temp": 283.03,
+        "pressure": 1032,
+        "humidity": 57,
+        "temp_min": 282.15,
+        "temp_max": 284.15
+    },
+    "wind": {
+        "speed": 1.5,
+        "deg": 0
+    },
+    "clouds": {
+        "all": 0
+    },
+    "weather": [{
+        "id": 800,
+        "main": "Clear",
+        "description": "Sky is Clear",
+        "icon": "01d"
+    }
+    ]
+}
+]

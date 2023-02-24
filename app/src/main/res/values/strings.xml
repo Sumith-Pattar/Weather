@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Weather</string>
+
+    <!--menu item text-->
+    <string name="search_location">Search</string>
+    <string name="favorite_location">Favorite location</string>
+
+    <!-- Location Weather Details screen-->
+    <string name="humidity_label">Humidity :</string>
+    <string name="pressure_label">Pressure :</string>
+    <string name="wind_label">Wind :</string>
+    <string name="about">About</string>
+    <string name="about_info">Weather App : Know the climate of your city</string>
+
+</resources>

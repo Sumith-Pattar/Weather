@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <dimen name="search_view_padding_top">5dp</dimen>
+    <dimen name="location_title_font_size">24sp</dimen>
+    <dimen name="margin_start_date_time">24dp</dimen>
+    <dimen name="temperature_font_size">75sp</dimen>
+    <dimen name="temperature_margin_vertical_top">14dp</dimen>
+    <dimen name="margin_top_default">5dp</dimen>
+    <dimen name="sub_text_font_size">18sp</dimen>
+    <dimen name="sub_text_margin_start">14dp</dimen>
+    <dimen name="margin_location_top_layout">16dp</dimen>
+</resources>

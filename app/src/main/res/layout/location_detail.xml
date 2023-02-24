@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="@dimen/margin_location_top_layout">
+
+    <TextView
+        android:id="@+id/cityNameTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/margin_top_default"
+        android:textSize="@dimen/location_title_font_size"
+        app:drawableLeftCompat="@drawable/ic_menu_location"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/dateTimeTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/location_title_font_size"
+        android:layout_marginTop="@dimen/margin_top_default"
+        android:textSize="@dimen/sub_text_font_size"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/cityNameTextView" />
+
+    <TextView
+        android:id="@+id/temperatureTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginVertical="@dimen/temperature_margin_vertical_top"
+        android:textSize="@dimen/temperature_font_size"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/dateTimeTextView" />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/guideline_value_start"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintGuide_percent="0.3" />
+
+    <TextView
+        android:id="@+id/humidityTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/sub_text_margin_start"
+        android:text="@string/humidity_label"
+        android:textSize="@dimen/sub_text_font_size"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/temperatureTextView" />
+
+    <TextView
+        android:id="@+id/humidityValueTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/sub_text_margin_start"
+        android:textSize="@dimen/sub_text_font_size"
+        app:layout_constraintStart_toEndOf="@id/guideline_value_start"
+        app:layout_constraintTop_toTopOf="@+id/humidityTextView" />
+
+    <TextView
+        android:id="@+id/pressureTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/sub_text_margin_start"
+        android:text="@string/pressure_label"
+        android:textSize="@dimen/sub_text_font_size"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/humidityTextView" />
+
+    <TextView
+        android:id="@+id/pressureValueTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/sub_text_margin_start"
+        android:textSize="@dimen/sub_text_font_size"
+        app:layout_constraintStart_toEndOf="@id/guideline_value_start"
+        app:layout_constraintTop_toTopOf="@+id/pressureTextView" />
+
+    <TextView
+        android:id="@+id/windSpeedTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/sub_text_margin_start"
+        android:text="@string/wind_label"
+        android:textSize="@dimen/sub_text_font_size"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/pressureTextView" />
+
+    <TextView
+        android:id="@+id/windSpeedValueTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/sub_text_margin_start"
+        android:textSize="@dimen/sub_text_font_size"
+        app:layout_constraintStart_toEndOf="@id/guideline_value_start"
+        app:layout_constraintTop_toTopOf="@+id/windSpeedTextView" />
+</androidx.constraintlayout.widget.ConstraintLayout>
